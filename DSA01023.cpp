@@ -37,6 +37,8 @@ int main(int argc, char const *argv[])
         a[0]=0;
         dem=0;
         stop=false;
+        for(int i=1;i<=k;i++)
+            cin>>b[i];
         Try(1);
         cout<<dem<<endl;
     }
