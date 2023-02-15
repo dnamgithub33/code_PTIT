@@ -40,6 +40,7 @@ int main(int argc, char const *argv[])
         for(int i=1;i<=k;i++)
             cin>>b[i];
         Try(1);
+        #
         cout<<dem<<endl;
     }
     
