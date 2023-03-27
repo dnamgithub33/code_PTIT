@@ -24,5 +24,5 @@ int main(){
             cin >> a[i][j];
         }
     }
-    DFS(1);
+    DFS(6);
 }

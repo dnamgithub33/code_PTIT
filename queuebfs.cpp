@@ -39,5 +39,5 @@ int main(){
     graph g;
     g.readdata();
     g.init();
-    g.queuebfs(1);
+    g.queuebfs(8);
 }
