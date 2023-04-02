@@ -49,6 +49,7 @@ void Kruskal(Edge edges[], int V, int E) {
             W+=current_edge.weight;
             //cout << current_edge.src +1<< " " << current_edge.dest +1<< " "<< endl;
             Union(parent, x, y);
+            
             count++;
         }
     }
